@@ -1,0 +1,587 @@
+[
+  {
+    "app_id": "359550",
+    "name": "Tom Clancy's Rainbow Six Siege",
+    "release_date": "2015-12-01",
+    "price": "0.0",
+    "price_status": "free",
+    "short_description": "Tom Clancy's Rainbow Six Siege is an elite, tactical team-based shooter where superior planning and execution triumph.",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/359550/159d232dac26cee77cf57e32ec0545ac91c09dbc/header_alt_assets_24.jpg?t=1784137517",
+    "windows": "True",
+    "mac": "False",
+    "linux": "False",
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "developers": [
+      "Ubisoft Montreal"
+    ]
+  },
+  {
+    "app_id": "367520",
+    "name": "Hollow Knight",
+    "release_date": "2017-02-24",
+    "price": "14.99",
+    "price_status": "paid",
+    "short_description": "Forge your own path in Hollow Knight! An epic action adventure through a vast ruined kingdom of insects and heroes. Explore twisting caverns, battle tainted creatures and befriend bizarre bugs, all in a classic, hand-drawn 2D style.",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/367520/3c3489495136b26b34f8a9543c7f5645b99d388c/header.jpg?t=1776125684",
+    "windows": "True",
+    "mac": "True",
+    "linux": "True",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "developers": [
+      "Team Cherry"
+    ]
+  },
+  {
+    "app_id": "374320",
+    "name": "DARK SOULS™ III",
+    "release_date": "2016-04-11",
+    "price": "59.99",
+    "price_status": "paid",
+    "short_description": "Dark Souls continues to push the boundaries with the latest, ambitious chapter in the critically-acclaimed and genre-defining series. Prepare yourself and Embrace The Darkness!",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg?t=1748630784",
+    "windows": "True",
+    "mac": "False",
+    "linux": "False",
+    "genres": [
+      "Action"
+    ],
+    "developers": [
+      "FromSoftware, Inc."
+    ]
+  },
+  {
+    "app_id": "381210",
+    "name": "Dead by Daylight",
+    "release_date": "2016-06-14",
+    "price": "19.99",
+    "price_status": "paid",
+    "short_description": "10 years of horror. 10 years of jump scares and close calls. 10 years of brutal sacrifices and thrilling escapes. Trapped forever in a realm of eldritch evil where even death is not an escape, four determined Survivors face a bloodthirsty Killer in a vicious game of nerve and wits.",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1784216454",
+    "windows": "True",
+    "mac": "False",
+    "linux": "False",
+    "genres": [
+      "Action"
+    ],
+    "developers": [
+      "Behaviour Interactive Inc."
+    ]
+  },
+  {
+    "app_id": "239140",
+    "name": "Dying Light",
+    "release_date": "2015-01-26",
+    "price": "24.99",
+    "price_status": "paid",
+    "short_description": "First-person action survival game set in a post-apocalyptic open world overrun by flesh-hungry zombies. Roam a city devastated by a mysterious virus epidemic. Scavenge for supplies, craft weapons, and face hordes of the infected.",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/239140/9d1b810b85ae46a0acbdfddf583ccbb81271183e/header.jpg?t=1782913513",
+    "windows": "True",
+    "mac": "True",
+    "linux": "True",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "developers": [
+      "Techland"
+    ]
+  },
+  {
+    "app_id": "252490",
+    "name": "Rust",
+    "release_date": "2018-02-08",
+    "price": "39.99",
+    "price_status": "paid",
+    "short_description": "The only aim in Rust is to survive. Everything wants you to die - the island’s wildlife, other inhabitants, the environment, and other survivors. Do whatever it takes to last another night.",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1781536981",
+    "windows": "True",
+    "mac": "True",
+    "linux": "False",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "Massively Multiplayer",
+      "RPG"
+    ],
+    "developers": [
+      "Facepunch Studios"
+    ]
+  },
+  {
+    "app_id": "275850",
+    "name": "No Man's Sky",
+    "release_date": "2016-08-12",
+    "price": "59.99",
+    "price_status": "paid",
+    "short_description": "No Man's Sky is a game about exploration and survival in an infinite procedurally generated universe.",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/dd8237b8ab283a8225a6ba3fc0dee7e1b135cbee/header_alt_assets_25.jpg?t=1779908213",
+    "windows": "True",
+    "mac": "True",
+    "linux": "False",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "developers": [
+      "Hello Games"
+    ]
+  },
+  {
+    "app_id": "292030",
+    "name": "The Witcher 3: Wild Hunt",
+    "release_date": "2015-05-18",
+    "price": "39.99",
+    "price_status": "paid",
+    "short_description": "You are Geralt of Rivia, mercenary monster slayer. Before you stands a war-torn, monster-infested continent you can explore at will. Your current contract? Tracking down Ciri — the Child of Prophecy, a living weapon that can alter the shape of the world.",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/ad9240e088f953a84aee814034c50a6a92bf4516/header.jpg?t=1768303991",
+    "windows": "True",
+    "mac": "False",
+    "linux": "False",
+    "genres": [
+      "RPG"
+    ],
+    "developers": [
+      "CD PROJEKT RED"
+    ]
+  },
+  {
+    "app_id": "271590",
+    "name": "Grand Theft Auto V Legacy",
+    "release_date": "2015-04-13",
+    "price": "",
+    "price_status": "unavailable",
+    "short_description": "Grand Theft Auto V for PC offers players the option to explore the award-winning world of Los Santos and Blaine County in resolutions of up to 4k and beyond, as well as the chance to experience the game running at 60 frames per second.",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/271590/header.jpg?t=1765387725",
+    "windows": "True",
+    "mac": "False",
+    "linux": "False",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "developers": [
+      "Rockstar North"
+    ]
+  },
+  {
+    "app_id": "105600",
+    "name": "Terraria",
+    "release_date": "2011-05-16",
+    "price": "9.99",
+    "price_status": "paid",
+    "short_description": "Dig, fight, explore, build! Nothing is impossible in this action-packed adventure game. Four Pack also available!",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg?t=1769844435",
+    "windows": "True",
+    "mac": "True",
+    "linux": "True",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie",
+      "RPG"
+    ],
+    "developers": [
+      "Re-Logic"
+    ]
+  },
+  {
+    "app_id": "400",
+    "name": "Portal",
+    "release_date": "2007-10-10",
+    "price": "9.99",
+    "price_status": "paid",
+    "short_description": "Portal™ is a new single player game from Valve. Set in the mysterious Aperture Science Laboratories, Portal has been called one of the most innovative new games on the horizon and will offer gamers hours of unique gameplay.",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/400/header.jpg?t=1745368554",
+    "windows": "True",
+    "mac": "False",
+    "linux": "True",
+    "genres": [
+      "Action"
+    ],
+    "developers": [
+      "Valve"
+    ]
+  },
+  {
+    "app_id": "440",
+    "name": "Team Fortress 2",
+    "release_date": "2007-10-10",
+    "price": "0.0",
+    "price_status": "free",
+    "short_description": "Nine distinct classes provide a broad range of tactical abilities and personalities. Constantly updated with new game modes, maps, equipment and, most importantly, hats!",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/440/header.jpg?t=1757348372",
+    "windows": "True",
+    "mac": "False",
+    "linux": "True",
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "developers": [
+      "Valve"
+    ]
+  },
+  {
+    "app_id": "570",
+    "name": "Dota 2",
+    "release_date": "2013-07-09",
+    "price": "0.0",
+    "price_status": "free",
+    "short_description": "Every day, millions of players worldwide enter battle as one of over a hundred Dota heroes. And no matter if it's their 10th hour of play or 1,000th, there's always something new to discover. With regular updates that ensure a constant evolution of gameplay, features, and heroes, Dota 2 has taken on a life of its own.",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570/header.jpg?t=1769535998",
+    "windows": "True",
+    "mac": "True",
+    "linux": "True",
+    "genres": [
+      "Action",
+      "Strategy",
+      "Free To Play"
+    ],
+    "developers": [
+      "Valve"
+    ]
+  },
+  {
+    "app_id": "620",
+    "name": "Portal 2",
+    "release_date": "2011-04-18",
+    "price": "9.99",
+    "price_status": "paid",
+    "short_description": "The &quot;Perpetual Testing Initiative&quot; has been expanded to allow you to design co-op puzzles for you and your friends!",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/620/header.jpg?t=1745363004",
+    "windows": "True",
+    "mac": "False",
+    "linux": "True",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "developers": [
+      "Valve"
+    ]
+  },
+  {
+    "app_id": "730",
+    "name": "Counter-Strike 2",
+    "release_date": "2012-08-21",
+    "price": "0.0",
+    "price_status": "free",
+    "short_description": "For over two decades, Counter-Strike has offered an elite competitive experience, one shaped by millions of players from across the globe. And now the next chapter in the CS story is about to begin. This is Counter-Strike 2.",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/730/162664aa5da85f418105350c5d67ca565f6c3713/header.jpg?t=1780435263",
+    "windows": "True",
+    "mac": "False",
+    "linux": "True",
+    "genres": [
+      "Action",
+      "Free To Play"
+    ],
+    "developers": [
+      "Valve"
+    ]
+  },
+  {
+    "app_id": "632360",
+    "name": "Risk of Rain 2",
+    "release_date": "2020-08-11",
+    "price": "24.99",
+    "price_status": "paid",
+    "short_description": "Escape a chaotic alien planet by fighting through hordes of frenzied monsters – with your friends, or on your own. Combine loot in surprising ways and master each character until you become the havoc you feared upon your first crash landing.",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/header.jpg?t=1783621122",
+    "windows": "True",
+    "mac": "False",
+    "linux": "False",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "developers": [
+      "Hopoo Games"
+    ]
+  },
+  {
+    "app_id": "648800",
+    "name": "Raft",
+    "release_date": "2022-06-20",
+    "price": "19.99",
+    "price_status": "paid",
+    "short_description": "Raft™ throws you and your friends into an epic oceanic adventure! Alone or together, players battle to survive a perilous voyage across a vast sea! Gather debris, scavenge reefs and build your own floating home, but be wary of the man-eating sharks!",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg?t=1727184011",
+    "windows": "True",
+    "mac": "False",
+    "linux": "False",
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Simulation"
+    ],
+    "developers": [
+      "Redbeet Interactive"
+    ]
+  },
+  {
+    "app_id": "578080",
+    "name": "PUBG: BATTLEGROUNDS",
+    "release_date": "2017-12-21",
+    "price": "0.0",
+    "price_status": "free",
+    "short_description": "PUBG: BATTLEGROUNDS, the high-stakes winner-take-all shooter that started the Battle Royale craze, is free-to-play! Drop into diverse maps, loot unique weapons and supplies, and survive in an ever-shrinking zone where every turn could be your last.",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/578080/841ea38bc58cabb70aef65365cf50bc2d79329d9/header.jpg?t=1781659328",
+    "windows": "True",
+    "mac": "False",
+    "linux": "False",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Massively Multiplayer",
+      "Free To Play"
+    ],
+    "developers": [
+      "PUBG Corporation"
+    ]
+  },
+  {
+    "app_id": "553850",
+    "name": "HELLDIVERS™ 2",
+    "release_date": "2024-02-08",
+    "price": "39.99",
+    "price_status": "paid",
+    "short_description": "The Galaxy’s Last Line of Offence. Enlist in the Helldivers and join the fight for freedom across a hostile galaxy in a fast, frantic, and ferocious third-person shooter.",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/553850/f11c258b04a5e3e7771c1bab60f324ebf6c6c6fb/header.jpg?t=1779899567",
+    "windows": "True",
+    "mac": "False",
+    "linux": "False",
+    "genres": [
+      "Action"
+    ],
+    "developers": [
+      "Arrowhead Game Studios"
+    ]
+  },
+  {
+    "app_id": "504230",
+    "name": "Celeste",
+    "release_date": "2018-01-25",
+    "price": "19.99",
+    "price_status": "paid",
+    "short_description": "Help Madeline survive her inner demons on her journey to the top of Celeste Mountain, in this super-tight platformer from the creators of TowerFall. Brave hundreds of hand-crafted challenges, uncover devious secrets, and piece together the mystery of the mountain.",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/504230/header.jpg?t=1714089525",
+    "windows": "True",
+    "mac": "True",
+    "linux": "True",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Indie"
+    ],
+    "developers": [
+      "Maddy Makes Games Inc.",
+      "Extremely OK Games, Ltd."
+    ]
+  },
+  {
+    "app_id": "431960",
+    "name": "Wallpaper Engine",
+    "release_date": "2018-11-16",
+    "price": "4.99",
+    "price_status": "paid",
+    "short_description": "Use stunning live wallpapers on your desktop. Animate your own images to create new wallpapers or import videos/websites and share them on the Steam Workshop!",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/431960/header.jpg?t=1779452230",
+    "windows": "True",
+    "mac": "False",
+    "linux": "False",
+    "genres": [
+      "Casual",
+      "Indie",
+      "Animation & Modeling",
+      "Design & Illustration",
+      "Photo Editing",
+      "Utilities"
+    ],
+    "developers": [
+      "Wallpaper Engine Team"
+    ]
+  },
+  {
+    "app_id": "413150",
+    "name": "Stardew Valley",
+    "release_date": "2016-02-26",
+    "price": "14.99",
+    "price_status": "paid",
+    "short_description": "You've inherited your grandfather's old farm plot in Stardew Valley. Armed with hand-me-down tools and a few coins, you set out to begin your new life. Can you learn to live off the land and turn these overgrown fields into a thriving home?",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/413150/header.jpg?t=1754692865",
+    "windows": "True",
+    "mac": "True",
+    "linux": "True",
+    "genres": [
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "developers": [
+      "ConcernedApe"
+    ]
+  },
+  {
+    "app_id": "945360",
+    "name": "Among Us",
+    "release_date": "2018-11-16",
+    "price": "4.99",
+    "price_status": "paid",
+    "short_description": "An online and local party game of teamwork and betrayal for 4-15 players...in space!",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/945360/header.jpg?t=1787088490",
+    "windows": "True",
+    "mac": "False",
+    "linux": "False",
+    "genres": [
+      "Casual"
+    ],
+    "developers": [
+      "Innersloth"
+    ]
+  },
+  {
+    "app_id": "1091500",
+    "name": "Cyberpunk 2077",
+    "release_date": "2020-12-09",
+    "price": "59.99",
+    "price_status": "paid",
+    "short_description": "Cyberpunk 2077 is an open-world, action-adventure RPG set in the dark future of Night City — a dangerous megalopolis obsessed with power, glamor, and ceaseless body modification.",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/48a93d6445a67520ea49833c93dae8f2e68fc540/header_alt_assets_9.jpg?t=1792682505",
+    "windows": "True",
+    "mac": "True",
+    "linux": "False",
+    "genres": [
+      "RPG"
+    ],
+    "developers": [
+      "CD PROJEKT RED"
+    ]
+  },
+  {
+    "app_id": "1086940",
+    "name": "Baldur's Gate 3",
+    "release_date": "2023-08-03",
+    "price": "59.99",
+    "price_status": "paid",
+    "short_description": "Baldur’s Gate 3 is a story-rich, party-based RPG set in the universe of Dungeons &amp; Dragons, where your choices shape a tale of fellowship and betrayal, survival and sacrifice, and the lure of absolute power.",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
+    "windows": "True",
+    "mac": "True",
+    "linux": "False",
+    "genres": [
+      "Adventure",
+      "RPG",
+      "Strategy"
+    ],
+    "developers": [
+      "Larian Studios"
+    ]
+  },
+  {
+    "app_id": "1145360",
+    "name": "Hades",
+    "release_date": "2020-09-17",
+    "price": "24.99",
+    "price_status": "paid",
+    "short_description": "Defy the god of the dead as you hack and slash out of the Underworld in this rogue-like dungeon crawler from the creators of Bastion, Transistor, and Pyre.",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg?t=1758127023",
+    "windows": "True",
+    "mac": "True",
+    "linux": "False",
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "developers": [
+      "Supergiant Games"
+    ]
+  },
+  {
+    "app_id": "1151640",
+    "name": "Horizon Zero Dawn™ Complete Edition",
+    "release_date": "2020-08-07",
+    "price": "49.99",
+    "price_status": "paid",
+    "short_description": "Experience Aloy’s legendary quest to unravel the mysteries of a future Earth ruled by Machines. Use devastating tactical attacks against your prey and explore a majestic open world in this award-winning action RPG!",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1151640/header.jpg?t=1750105817",
+    "windows": "True",
+    "mac": "False",
+    "linux": "False",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "developers": [
+      "Guerrilla"
+    ]
+  },
+  {
+    "app_id": "1172470",
+    "name": "Apex Legends™",
+    "release_date": "2020-11-04",
+    "price": "0.0",
+    "price_status": "free",
+    "short_description": "Apex Legends is the award-winning, free-to-play Hero Shooter from Respawn Entertainment. Master an ever-growing roster of legendary characters with powerful abilities, and experience strategic squad play and innovative gameplay in the next evolution of Hero Shooter and Battle Royale.",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172470/6ae90b012e725a93622c3694d9d866b886cfd0f8/header.jpg?t=1762457261",
+    "windows": "True",
+    "mac": "False",
+    "linux": "False",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Free To Play"
+    ],
+    "developers": [
+      "Respawn"
+    ]
+  },
+  {
+    "app_id": "1174180",
+    "name": "Red Dead Redemption 2",
+    "release_date": "2019-12-05",
+    "price": "59.99",
+    "price_status": "paid",
+    "short_description": "Arthur Morgan and the Van der Linde Gang are outlaws on the run. With federal agents and bounty hunters massing on their heels, the gang must rob, steal, and fight their way across the rugged heartland in order to survive.",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
+    "windows": "True",
+    "mac": "False",
+    "linux": "False",
+    "genres": [
+      "Action",
+      "Adventure"
+    ],
+    "developers": [
+      "Rockstar Games"
+    ]
+  },
+  {
+    "app_id": "1245620",
+    "name": "ELDEN RING",
+    "release_date": "2022-02-24",
+    "price": "59.99",
+    "price_status": "paid",
+    "short_description": "THE CRITICALLY ACCLAIMED FANTASY ACTION RPG. Rise, Tarnished, and be guided by grace to brandish the power of the Elden Ring and become an Elden Lord in the Lands Between.",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1245620/header.jpg?t=1748630546",
+    "windows": "True",
+    "mac": "False",
+    "linux": "False",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "developers": [
+      "FromSoftware, Inc."
+    ]
+  }
+]
