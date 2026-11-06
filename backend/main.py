@@ -63,7 +63,7 @@ def games(q: str = Query('', max_length=200), genre: str = '', kind: str = '', p
     where = ' WHERE ' + ' AND '.join(clauses) if clauses else ''
     with database() as conn:
         total = conn.execute('SELECT count(*) total FROM juegos j' + where, args).fetchone()['total']
-        rows = conn.execute(BASE + where + ' ORDER BY j.name, j.app_id LIMIT %s OFFSET %s', args + [limit, (page-1)*limit]).fetchall()
+        rows = conn.execute(BASE + where + ' ORDER BY peak_ccu DESC NULLS LAST, j.name, j.app_id LIMIT %s OFFSET %s', args + [limit, (page-1)*limit]).fetchall()
     return {'items': [game(r) for r in rows], 'total': total, 'page': page, 'limit': limit}
 
 @app.get('/api/games/{app_id}')
